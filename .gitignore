@@ -1,0 +1,3 @@
+# tells git to ignore files with senstitive data or unecessary packages
+.env
+node_modules
